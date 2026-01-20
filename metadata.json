@@ -1,0 +1,1016 @@
+{
+  "en": [
+    {
+      "id": "en-s-e-a-h-stephenson",
+      "title": "The Breaking of the Storm",
+      "author": "Friedrich Spielhagen",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/s-e-a-h-stephenson.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/s-e-a-h-stephenson.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-trail-of-the-serpent",
+      "title": "The Trail of the Serpent",
+      "author": "M. E. Braddon",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-trail-of-the-serpent.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-trail-of-the-serpent.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "On the Eve",
+      "author": "Ivan Turgenev",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-short-fiction",
+      "title": "Short Fiction",
+      "author": "Clark Ashton Smith",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/short-fiction.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/short-fiction.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-we",
+      "title": "“We”",
+      "author": "Charles A. Lindbergh",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/we.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/we.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-beric-the-briton",
+      "title": "Beric the Briton",
+      "author": "G. A. Henty",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/beric-the-briton.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/beric-the-briton.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-tragedy-at-ravensthorpe",
+      "title": "Tragedy at Ravensthorpe",
+      "author": "J. J. Connington",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/tragedy-at-ravensthorpe.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/tragedy-at-ravensthorpe.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-father-hensons-story-of-his-own-life",
+      "title": "Father Henson’s Story of His Own Life",
+      "author": "Josiah Henson",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/father-hensons-story-of-his-own-life.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/father-hensons-story-of-his-own-life.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-conan-stories",
+      "title": "Conan Stories",
+      "author": "Robert E. Howard",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/conan-stories.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/conan-stories.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-story-of-doctor-dolittle",
+      "title": "The Story of Doctor Dolittle",
+      "author": "Hugh Lofting",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-story-of-doctor-dolittle.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-story-of-doctor-dolittle.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-world-below",
+      "title": "The World Below",
+      "author": "S. Fowler Wright",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-world-below.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-world-below.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-haunted-hotel",
+      "title": "The Haunted Hotel",
+      "author": "Wilkie Collins",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-haunted-hotel.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-haunted-hotel.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-brooklyn-murders",
+      "title": "The Brooklyn Murders",
+      "author": "G. D. H. Cole",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-brooklyn-murders.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-brooklyn-murders.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-apple-cart",
+      "title": "The Apple Cart",
+      "author": "George Bernard Shaw",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-apple-cart.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-apple-cart.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-planet-of-the-damned",
+      "title": "Planet of the Damned",
+      "author": "Harry Harrison",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/planet-of-the-damned.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/planet-of-the-damned.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-marcus-dods_george-wilson_j-j-smith",
+      "title": "The City of God",
+      "author": "Augustine of Hippo",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/marcus-dods_george-wilson_j-j-smith.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/marcus-dods_george-wilson_j-j-smith.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-as-i-lay-dying",
+      "title": "As I Lay Dying",
+      "author": "William Faulkner",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/as-i-lay-dying.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/as-i-lay-dying.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-faraway-bride",
+      "title": "The Faraway Bride",
+      "author": "Stella Benson",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-faraway-bride.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-faraway-bride.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-years-of-grace",
+      "title": "Years of Grace",
+      "author": "Margaret Ayer Barnes",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/years-of-grace.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/years-of-grace.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-not-without-laughter",
+      "title": "Not Without Laughter",
+      "author": "Langston Hughes",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/not-without-laughter.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/not-without-laughter.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-end-of-the-world",
+      "title": "The End of the World",
+      "author": "Geoffrey Dennis",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-end-of-the-world.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-end-of-the-world.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-willa-muir_edwin-muir",
+      "title": "The Castle",
+      "author": "Franz Kafka",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/willa-muir_edwin-muir.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/willa-muir_edwin-muir.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-vile-bodies",
+      "title": "Vile Bodies",
+      "author": "Evelyn Waugh",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/vile-bodies.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/vile-bodies.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-miss-mole",
+      "title": "Miss Mole",
+      "author": "E. H. Young",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/miss-mole.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/miss-mole.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-cimarron",
+      "title": "Cimarron",
+      "author": "Edna Ferber",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/cimarron.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/cimarron.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-strong-poison",
+      "title": "Strong Poison",
+      "author": "Dorothy L. Sayers",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/strong-poison.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/strong-poison.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-maltese-falcon",
+      "title": "The Maltese Falcon",
+      "author": "Dashiell Hammett",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-maltese-falcon.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-maltese-falcon.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-short-fiction",
+      "title": "Short Fiction",
+      "author": "Daphne du Maurier",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/short-fiction.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/short-fiction.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-mystery-at-lilac-inn",
+      "title": "The Mystery at Lilac Inn",
+      "author": "Carolyn Keene",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-mystery-at-lilac-inn.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-mystery-at-lilac-inn.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-secret-of-the-old-clock",
+      "title": "The Secret of the Old Clock",
+      "author": "Carolyn Keene",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-secret-of-the-old-clock.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-secret-of-the-old-clock.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-hidden-staircase",
+      "title": "The Hidden Staircase",
+      "author": "Carolyn Keene",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-hidden-staircase.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-hidden-staircase.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-bungalow-mystery",
+      "title": "The Bungalow Mystery",
+      "author": "Carolyn Keene",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-bungalow-mystery.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-bungalow-mystery.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-swallows-and-amazons",
+      "title": "Swallows and Amazons",
+      "author": "Arthur Ransome",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/swallows-and-amazons.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/swallows-and-amazons.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-murder-at-the-vicarage",
+      "title": "The Murder at the Vicarage",
+      "author": "Agatha Christie",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-murder-at-the-vicarage.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-murder-at-the-vicarage.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-giants-bread",
+      "title": "Giant’s Bread",
+      "author": "Agatha Christie",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/giants-bread.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/giants-bread.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-our-baseball-club-and-how-it-won-the-championship",
+      "title": "Our Baseball Club and How It Won the Championship",
+      "author": "Noah Brooks",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/our-baseball-club-and-how-it-won-the-championship.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/our-baseball-club-and-how-it-won-the-championship.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-outlaw-of-torn",
+      "title": "The Outlaw of Torn",
+      "author": "Edgar Rice Burroughs",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-outlaw-of-torn.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-outlaw-of-torn.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-lone-wolf",
+      "title": "The Lone Wolf",
+      "author": "Louis Joseph Vance",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-lone-wolf.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-lone-wolf.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-law-and-the-lady",
+      "title": "The Law and the Lady",
+      "author": "Wilkie Collins",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-law-and-the-lady.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-law-and-the-lady.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-futility",
+      "title": "Futility",
+      "author": "William Gerhardie",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/futility.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/futility.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-powerhouse",
+      "title": "The Powerhouse",
+      "author": "John Buchan",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-powerhouse.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-powerhouse.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-payment-deferred",
+      "title": "Payment Deferred",
+      "author": "C. S. Forester",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/payment-deferred.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/payment-deferred.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-plum-bun",
+      "title": "Plum Bun",
+      "author": "Jessie Redmon Fauset",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/plum-bun.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/plum-bun.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-patient-in-room-18",
+      "title": "The Patient in Room 18",
+      "author": "Mignon G. Eberhart",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-patient-in-room-18.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-patient-in-room-18.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-journal-of-a-disappointed-man",
+      "title": "The Journal of a Disappointed Man",
+      "author": "W. N. P. Barbellion",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-journal-of-a-disappointed-man.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-journal-of-a-disappointed-man.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-roots-of-the-mountains",
+      "title": "The Roots of the Mountains",
+      "author": "William Morris",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-roots-of-the-mountains.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-roots-of-the-mountains.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-short-fiction",
+      "title": "Short Fiction",
+      "author": "Mary Shelley",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/short-fiction.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/short-fiction.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-ashton-kirk-investigator",
+      "title": "Ashton-Kirk, Investigator",
+      "author": "John T. McIntyre",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/ashton-kirk-investigator.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/ashton-kirk-investigator.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-little-caesar",
+      "title": "Little Caesar",
+      "author": "W. R. Burnett",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/little-caesar.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/little-caesar.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-in-the-days-of-the-comet",
+      "title": "In the Days of the Comet",
+      "author": "H. G. Wells",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/in-the-days-of-the-comet.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/in-the-days-of-the-comet.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-poetry",
+      "title": "Poetry",
+      "author": "Henry van Dyke Jr.",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/poetry.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/poetry.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-my-four-weeks-in-france",
+      "title": "My Four Weeks in France",
+      "author": "Ring Lardner",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/my-four-weeks-in-france.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/my-four-weeks-in-france.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-a-high-wind-in-jamaica",
+      "title": "A High Wind in Jamaica",
+      "author": "Richard Hughes",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/a-high-wind-in-jamaica.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/a-high-wind-in-jamaica.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-mystery-of-31-new-inn",
+      "title": "The Mystery of 31, New Inn",
+      "author": "R. Austin Freeman",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-mystery-of-31-new-inn.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-mystery-of-31-new-inn.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-our-mutual-friend",
+      "title": "Our Mutual Friend",
+      "author": "Charles Dickens",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/our-mutual-friend.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/our-mutual-friend.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-black-moth",
+      "title": "The Black Moth",
+      "author": "Georgette Heyer",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-black-moth.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-black-moth.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-jack-keefe-stories",
+      "title": "Jack Keefe Stories",
+      "author": "Ring Lardner",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/jack-keefe-stories.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/jack-keefe-stories.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-john-browns-body",
+      "title": "John Brown’s Body",
+      "author": "Stephen Vincent Benét",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/john-browns-body.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/john-browns-body.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-there-is-confusion",
+      "title": "There Is Confusion",
+      "author": "Jessie Redmon Fauset",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/there-is-confusion.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/there-is-confusion.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-manalive",
+      "title": "Manalive",
+      "author": "G. K. Chesterton",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/manalive.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/manalive.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-red-thumbmark",
+      "title": "The Red Thumbmark",
+      "author": "R. Austin Freeman",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-red-thumbmark.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-red-thumbmark.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-in-darkest-london",
+      "title": "In Darkest London",
+      "author": "Ada Elizabeth Chesterton",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/in-darkest-london.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/in-darkest-london.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-michael-henry-dziewicki",
+      "title": "The Peasants",
+      "author": "Władysław Reymont",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/michael-henry-dziewicki.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/michael-henry-dziewicki.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-english-constitution",
+      "title": "The English Constitution",
+      "author": "Walter Bagehot",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-english-constitution.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-english-constitution.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-wolf-solent",
+      "title": "Wolf Solent",
+      "author": "John Cowper Powys",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/wolf-solent.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/wolf-solent.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-blacker-the-berry",
+      "title": "The Blacker the Berry",
+      "author": "Wallace Thurman",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-blacker-the-berry.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-blacker-the-berry.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-poetry",
+      "title": "Poetry",
+      "author": "Ring Lardner",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/poetry.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/poetry.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-veiled-women",
+      "title": "Veiled Women",
+      "author": "Marmaduke Pickthall",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/veiled-women.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/veiled-women.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-pit",
+      "title": "The Pit",
+      "author": "Frank Norris",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-pit.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-pit.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-short-fiction",
+      "title": "Short Fiction",
+      "author": "Saki",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/short-fiction.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/short-fiction.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-r-freeman",
+      "title": "The Indiscreet Jewels",
+      "author": "Denis Diderot",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/r-freeman.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/r-freeman.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-clue",
+      "title": "The Clue",
+      "author": "Carolyn Wells",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-clue.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-clue.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-murders-in-praed-street",
+      "title": "The Murders in Praed Street",
+      "author": "John Rhode",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-murders-in-praed-street.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-murders-in-praed-street.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-john-silence-stories",
+      "title": "John Silence Stories",
+      "author": "Algernon Blackwood",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/john-silence-stories.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/john-silence-stories.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-house-at-pooh-corner",
+      "title": "The House at Pooh Corner",
+      "author": "A. A. Milne",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-house-at-pooh-corner.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-house-at-pooh-corner.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-white-company",
+      "title": "The White Company",
+      "author": "Arthur Conan Doyle",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-white-company.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-white-company.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-driven-back-to-eden",
+      "title": "Driven Back to Eden",
+      "author": "Edward Payson Roe",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/driven-back-to-eden.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/driven-back-to-eden.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-mr-britling-sees-it-through",
+      "title": "Mr. Britling Sees It Through",
+      "author": "H. G. Wells",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/mr-britling-sees-it-through.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/mr-britling-sees-it-through.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-lazy-detective",
+      "title": "The Lazy Detective",
+      "author": "George Dilnot",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-lazy-detective.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-lazy-detective.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "The Seagull",
+      "author": "Anton Chekhov",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-waverley",
+      "title": "Waverley",
+      "author": "Walter Scott",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/waverley.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/waverley.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-now-it-can-be-told",
+      "title": "Now It Can Be Told",
+      "author": "Philip Gibbs",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/now-it-can-be-told.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/now-it-can-be-told.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-magnolia-leaves",
+      "title": "Magnolia Leaves",
+      "author": "Mary Weston Fordham",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/magnolia-leaves.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/magnolia-leaves.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-recollections-of-full-years",
+      "title": "Recollections of Full Years",
+      "author": "Helen Herron Taft",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/recollections-of-full-years.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/recollections-of-full-years.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-short-science-fiction",
+      "title": "Short Science Fiction",
+      "author": "Isaac Asimov",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/short-science-fiction.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/short-science-fiction.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-ponson-case",
+      "title": "The Ponson Case",
+      "author": "Freeman Wills Crofts",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-ponson-case.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-ponson-case.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "Uncle Vanya",
+      "author": "Anton Chekhov",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-great-roxhythe",
+      "title": "The Great Roxhythe",
+      "author": "Georgette Heyer",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-great-roxhythe.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-great-roxhythe.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-octopus",
+      "title": "The Octopus",
+      "author": "Frank Norris",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-octopus.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-octopus.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-when-charles-the-first-was-king",
+      "title": "When Charles the First Was King",
+      "author": "J. S. Fletcher",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/when-charles-the-first-was-king.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/when-charles-the-first-was-king.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-old-english-baron",
+      "title": "The Old English Baron",
+      "author": "Clara Reeve",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-old-english-baron.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-old-english-baron.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "The Cherry Orchard",
+      "author": "Anton Chekhov",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-short-fiction",
+      "title": "Short Fiction",
+      "author": "Charles Beaumont",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/short-fiction.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/short-fiction.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-ellen-marriage",
+      "title": "The Jealousies of a Country Town",
+      "author": "Honoré de Balzac",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/ellen-marriage.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/ellen-marriage.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-shadow-line",
+      "title": "The Shadow Line",
+      "author": "Joseph Conrad",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-shadow-line.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-shadow-line.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "A House of Gentlefolk",
+      "author": "Ivan Turgenev",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-misalliance",
+      "title": "Misalliance",
+      "author": "George Bernard Shaw",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/misalliance.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/misalliance.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-that-affair-next-door",
+      "title": "That Affair Next Door",
+      "author": "Anna Katharine Green",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/that-affair-next-door.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/that-affair-next-door.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-travel-essays",
+      "title": "Travel Essays",
+      "author": "Robert Louis Stevenson",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/travel-essays.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/travel-essays.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-master-mind-of-mars",
+      "title": "The Master Mind of Mars",
+      "author": "Edgar Rice Burroughs",
+      "category": "World Classics",
+      "description": "Premium edition by Standard Ebooks.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-master-mind-of-mars.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-master-mind-of-mars.epub",
+      "language": "en"
+    }
+  ],
+  "tr": [
+    {
+      "id": "tr-madonna",
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "category": "Türk Klasikleri",
+      "description": "Türk edebiyatının en derin aşk romanı.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/madonna.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/madonna.epub",
+      "language": "tr"
+    }
+  ]
+}
