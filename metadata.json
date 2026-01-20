@@ -1,5 +1,51 @@
 {
-  "en": [],
+  "en": [
+    {
+      "id": "en-dracula",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "category": "Korku & Gotik",
+      "description": "An ancient undead monster terrorizes Victorian London.",
+      "coverImage": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg",
+      "fileUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/bram-stoker_dracula.epub"
+    },
+    {
+      "id": "en-frankenstein",
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "category": "Bilim Kurgu",
+      "description": "A tragic scientist creates a monster in his laboratory.",
+      "coverImage": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg",
+      "fileUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/mary-shelley_frankenstein.epub"
+    },
+    {
+      "id": "en-gatsby",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Modern Klasik",
+      "description": "The decadent and mysterious Jay Gatsby pursues the American Dream.",
+      "coverImage": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby/downloads/cover.jpg",
+      "fileUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby/downloads/f-scott-fitzgerald_the-great-gatsby.epub"
+    },
+    {
+      "id": "en-holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "category": "Polisiye",
+      "description": "The world's first consulting detective investigates intriguing cases.",
+      "coverImage": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/cover.jpg",
+      "fileUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/arthur-conan-doyle_the-adventures-of-sherlock-holmes.epub"
+    },
+    {
+      "id": "en-moby-dick",
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "category": "Macera",
+      "description": "Captain Ahab travels the world on a quest for vengeance against a white whale.",
+      "coverImage": "https://standardebooks.org/ebooks/herman-melville/moby-dick/downloads/cover.jpg",
+      "fileUrl": "https://standardebooks.org/ebooks/herman-melville/moby-dick/downloads/herman-melville_moby-dick.epub"
+    }
+  ],
   "tr": [
     {
       "id": "tr-madonna",
@@ -18,24 +64,6 @@
       "description": "İnsanın iç dünyasındaki karmaşayı ele alan bir başyapıt.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/seytan.jpg",
       "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/seytan.json"
-    },
-    {
-      "id": "tr-yusuf",
-      "title": "Kuyucaklı Yusuf",
-      "author": "Sabahattin Ali",
-      "category": "Türk Klasikleri",
-      "description": "Anadolu hayatının sarsıcı öyküsü.",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yusuf.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/yusuf.json"
-    },
-    {
-      "id": "tr-calikusu",
-      "title": "Çalıkuşu",
-      "author": "Reşat Nuri Güntekin",
-      "category": "Türk Klasikleri",
-      "description": "İdealist bir genç öğretmenin Anadolu macerası.",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/calikusu.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/calikusu.json"
     }
   ]
 }
