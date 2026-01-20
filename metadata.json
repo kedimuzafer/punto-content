@@ -1,37 +1,159 @@
 {
   "en": [
-    {"id": "en-dracula", "title": "Dracula", "author": "Bram Stoker", "category": "Korku & Gotik", "description": "An ancient undead monster terrorizes Victorian London.", "coverImage": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/bram-stoker/dracula/downloads/bram-stoker_dracula.epub"},
-    {"id": "en-frankenstein", "title": "Frankenstein", "author": "Mary Shelley", "category": "Bilim Kurgu", "description": "A tragic scientist creates a monster in his laboratory.", "coverImage": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/mary-shelley/frankenstein/downloads/mary-shelley_frankenstein.epub"},
-    {"id": "en-gatsby", "title": "The Great Gatsby", "author": "F. Scott Fitzgerald", "category": "Modern Klasik", "description": "The decadent and mysterious Jay Gatsby pursues the American Dream.", "coverImage": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/f-scott-fitzgerald/the-great-gatsby/downloads/f-scott-fitzgerald_the-great-gatsby.epub"},
-    {"id": "en-pride-and-prejudice", "title": "Pride and Prejudice", "author": "Jane Austen", "category": "Romantik", "description": "A Regency-era novel of manners and marriage.", "coverImage": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/jane-austen/pride-and-prejudice/downloads/jane-austen_pride-and-prejudice.epub"},
-    {"id": "en-sense-and-sensibility", "title": "Sense and Sensibility", "author": "Jane Austen", "category": "Romantik", "description": "The lives and loves of the Dashwood sisters.", "coverImage": "https://standardebooks.org/ebooks/jane-austen/sense-and-sensibility/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/jane-austen/sense-and-sensibility/downloads/jane-austen_sense-and-sensibility.epub"},
-    {"id": "en-holmes", "title": "The Adventures of Sherlock Holmes", "author": "Arthur Conan Doyle", "category": "Polisiye", "description": "The world's first consulting detective investigates intriguing cases.", "coverImage": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/arthur-conan-doyle/the-adventures-of-sherlock-holmes/downloads/arthur-conan-doyle_the-adventures-of-sherlock-holmes.epub"},
-    {"id": "en-moby-dick", "title": "Moby Dick", "author": "Herman Melville", "category": "Macera", "description": "Captain Ahab's epic quest for vengeance.", "coverImage": "https://standardebooks.org/ebooks/herman-melville/moby-dick/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/herman-melville/moby-dick/downloads/herman-melville_moby-dick.epub"},
-    {"id": "en-war-of-the-worlds", "title": "The War of the Worlds", "author": "H. G. Wells", "category": "Bilim Kurgu", "description": "Martian invasion of 19th-century Earth.", "coverImage": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/h-g-wells/the-war-of-the-worlds/downloads/h-g-wells_the-war-of-the-worlds.epub"},
-    {"id": "en-time-machine", "title": "The Time Machine", "author": "H. G. Wells", "category": "Bilim Kurgu", "description": "A mysterious inventor travels to a land far off in time.", "coverImage": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/h-g-wells/the-time-machine/downloads/h-g-wells_the-time-machine.epub"},
-    {"id": "en-meditations", "title": "Meditations", "author": "Marcus Aurelius", "category": "Felsefe", "description": "The personal diary of the Roman Emperor.", "coverImage": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/marcus-aurelius_meditations_george-long.epub"},
-    {"id": "en-art-of-war", "title": "The Art of War", "author": "Sun Tzu", "category": "Strateji", "description": "An ancient Chinese classic discussing the art of war.", "coverImage": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/sun-tzu/the-art-of-war/lionel-giles/downloads/sun-tzu_the-art-of-war_lionel-giles.epub"},
-    {"id": "en-two-cities", "title": "A Tale of Two Cities", "author": "Charles Dickens", "category": "Tarih", "description": "A story of the French Revolution.", "coverImage": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/charles-dickens/a-tale-of-two-cities/downloads/charles-dickens_a-tale-of-two-cities.epub"},
-    {"id": "en-great-expectations", "title": "Great Expectations", "author": "Charles Dickens", "category": "Klasik", "description": "The story of Pip and his journey to wealth.", "coverImage": "https://standardebooks.org/ebooks/charles-dickens/great-expectations/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/charles-dickens/great-expectations/downloads/charles-dickens_great-expectations.epub"},
-    {"id": "en-oliver-twist", "title": "Oliver Twist", "author": "Charles Dickens", "category": "Klasik", "description": "An orphan's struggle in London's underworld.", "coverImage": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/charles-dickens/oliver-twist/downloads/charles-dickens_oliver-twist.epub"},
-    {"id": "en-call-of-the-wild", "title": "The Call of the Wild", "author": "Jack London", "category": "Macera", "description": "A dog's survival in the Yukon Gold Rush.", "coverImage": "https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/jack-london/the-call-of-the-wild/downloads/jack-london_the-call-of-the-wild.epub"},
-    {"id": "en-heart-of-darkness", "title": "Heart of Darkness", "author": "Joseph Conrad", "category": "Klasik", "description": "A voyage up the Congo River.", "coverImage": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/joseph-conrad/heart-of-darkness/downloads/joseph-conrad_heart-of-darkness.epub"},
-    {"id": "en-crime-and-punishment", "title": "Crime and Punishment", "author": "Fyodor Dostoevsky", "category": "Psikolojik", "description": "Raskolnikov's mental anguish and moral dilemmas.", "coverImage": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/fyodor-dostoevsky/crime-and-punishment/constance-garnett/downloads/fyodor-dostoevsky_crime-and-punishment_constance-garnett.epub"},
-    {"id": "en-picture-of-dorian-gray", "title": "The Picture of Dorian Gray", "author": "Oscar Wilde", "category": "Felsefe", "description": "A philosophical novel of aestheticism and decadence.", "coverImage": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/oscar-wilde/the-picture-of-dorian-gray/downloads/oscar-wilde_the-picture-of-dorian-gray.epub"},
-    {"id": "en-tom-sawyer", "title": "The Adventures of Tom Sawyer", "author": "Mark Twain", "category": "Macera", "description": "The adventures of a young boy on the Mississippi.", "coverImage": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-tom-sawyer/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/mark-twain/the-adventures-of-tom-sawyer/downloads/mark-twain_the-adventures-of-tom-sawyer.epub"},
-    {"id": "en-ulysses", "title": "Ulysses", "author": "James Joyce", "category": "Modern Klasik", "description": "A landmark work of modernist literature.", "coverImage": "https://standardebooks.org/ebooks/james-joyce/ulysses/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/james-joyce/ulysses/downloads/james-joyce_ulysses.epub"},
-    {"id": "en-jane-eyre", "title": "Jane Eyre", "author": "Charlotte Brontë", "category": "Klasik", "description": "An orphaned girl's growth and her love for Mr. Rochester.", "coverImage": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/charlotte-bronte/jane-eyre/downloads/charlotte-bronte_jane-eyre.epub"},
-    {"id": "en-wuthering-heights", "title": "Wuthering Heights", "author": "Emily Brontë", "category": "Klasik", "description": "A tale of intense and destructive love.", "coverImage": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/emily-bronte/wuthering-heights/downloads/emily-bronte_wuthering-heights.epub"},
-    {"id": "en-treasure-island", "title": "Treasure Island", "author": "Robert Louis Stevenson", "category": "Macera", "description": "A classic pirate adventure story.", "coverImage": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/robert-louis-stevenson/treasure-island/downloads/robert-louis-stevenson_treasure-island.epub"},
-    {"id": "en-jungle-book", "title": "The Jungle Book", "author": "Rudyard Kipling", "category": "Çocuk & Macera", "description": "Tales of Mowgli and his animal friends.", "coverImage": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/rudyard-kipling/the-jungle-book/downloads/rudyard-kipling_the-jungle-book.epub"},
-    {"id": "en-gullivers-travels", "title": "Gulliver's Travels", "author": "Jonathan Swift", "category": "Hiciv", "description": "A satire on human nature and travelogues.", "coverImage": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/jonathan-swift/gullivers-travels/downloads/jonathan-swift_gullivers-travels.epub"},
-    {"id": "en-mrs-dalloway", "title": "Mrs. Dalloway", "author": "Virginia Woolf", "category": "Modern Klasik", "description": "A day in the life of Clarissa Dalloway.", "coverImage": "https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/virginia-woolf/mrs-dalloway/downloads/virginia-woolf_mrs-dalloway.epub"},
-    {"id": "en-styles", "title": "The Mysterious Affair at Styles", "author": "Agatha Christie", "category": "Polisiye", "description": "Hercule Poirot's first detective case.", "coverImage": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/cover.jpg", "fileUrl": "https://standardebooks.org/ebooks/agatha-christie/the-mysterious-affair-at-styles/downloads/agatha-christie_the-mysterious-affair-at-styles.epub"}
+    {
+      "id": "en-84",
+      "title": "Frankenstein; Or, The Modern Prometheus",
+      "author": "Shelley, Mary Wollstonecraft",
+      "category": "Klasikler",
+      "description": "Frankenstein;\r \r or, the Modern Prometheus\r \r by Mary Wollstonecraft (Godwin) Shelley\r \r \r  CONTENTS\r \r  Letter 1\r  Letter 2\r  Letter 3\r  Letter 4\r  C...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/84/pg84.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/frankenstein--or--the-modern-p.json"
+    },
+    {
+      "id": "en-2701",
+      "title": "Moby Dick; Or, The Whale",
+      "author": "Melville, Herman",
+      "category": "Klasikler",
+      "description": "MOBY-DICK;\r \r or, THE WHALE.\r \r By Herman Melville\r \r \r \r CONTENTS\r \r ETYMOLOGY.\r \r EXTRACTS (Supplied by a Sub-Sub-Librarian).\r \r CHAPTER 1. Loomings...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/2701/pg2701.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/moby-dick--or--the-whale.json"
+    },
+    {
+      "id": "en-46",
+      "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+      "author": "Dickens, Charles",
+      "category": "Klasikler",
+      "description": "A CHRISTMAS CAROL\r \r IN PROSE\r BEING\r A Ghost Story of Christmas\r \r by Charles Dickens\r \r \r \r PREFACE\r \r I HAVE endeavoured in this Ghostly little boo...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/46/pg46.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/a-christmas-carol-in-prose--be.json"
+    },
+    {
+      "id": "en-1342",
+      "title": "Pride and Prejudice",
+      "author": "Austen, Jane",
+      "category": "Klasikler",
+      "description": "[Illustration:\r \r                              GEORGE ALLEN\r                                PUBLISHER\r \r                         156 CHARING CROSS ROA...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/1342/pg1342.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/pride-and-prejudice.json"
+    },
+    {
+      "id": "en-1513",
+      "title": "Romeo and Juliet",
+      "author": "Shakespeare, William",
+      "category": "Klasikler",
+      "description": "THE TRAGEDY OF ROMEO AND JULIET\r \r by William Shakespeare\r \r \r \r \r Contents\r \r THE PROLOGUE.\r \r ACT I\r Scene I. A public place.\r Scene II. A Street.\r ...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/1513/pg1513.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/romeo-and-juliet.json"
+    },
+    {
+      "id": "en-43",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author": "Stevenson, Robert Louis",
+      "category": "Klasikler",
+      "description": "The Strange Case Of Dr. Jekyll And Mr. Hyde\r \r by Robert Louis Stevenson\r \r \r Contents\r \r \r  STORY OF THE DOOR\r \r  SEARCH FOR MR. HYDE\r \r  DR. JEKYLL ...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/43/pg43.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/the-strange-case-of-dr--jekyll.json"
+    },
+    {
+      "id": "en-100",
+      "title": "The Complete Works of William Shakespeare",
+      "author": "Shakespeare, William",
+      "category": "Klasikler",
+      "description": "The Complete Works of William Shakespeare\r \r by William Shakespeare\r \r \r \r \r                     Contents\r \r     THE SONNETS\r     ALL’S WELL THAT ENDS...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/100/pg100.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/the-complete-works-of-william-.json"
+    },
+    {
+      "id": "en-11",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Carroll, Lewis",
+      "category": "Klasikler",
+      "description": "[Illustration]\r \r \r \r \r Alice’s Adventures in Wonderland\r \r by Lewis Carroll\r \r THE MILLENNIUM FULCRUM EDITION 3.0\r \r Contents\r \r  CHAPTER I.     Down...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/11/pg11.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/alice-s-adventures-in-wonderla.json"
+    },
+    {
+      "id": "en-145",
+      "title": "Middlemarch",
+      "author": "Eliot, George",
+      "category": "Klasikler",
+      "description": "Middlemarch\r \r George Eliot\r \r New York and Boston\r H. M. Caldwell Company Publishers\r \r To my dear Husband, George Henry Lewes,\r in this nineteenth y...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/145/pg145.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/middlemarch.json"
+    },
+    {
+      "id": "en-2641",
+      "title": "A Room with a View",
+      "author": "Forster, E. M. (Edward Morgan)",
+      "category": "Klasikler",
+      "description": "[Illustration]\r \r \r \r \r A Room With A View\r \r By E. M. Forster\r \r \r \r \r CONTENTS\r \r  Part One.\r  Chapter I. The Bertolini\r  Chapter II. In Santa Croce...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/2641/pg2641.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/a-room-with-a-view.json"
+    },
+    {
+      "id": "en-2554",
+      "title": "Crime and Punishment",
+      "author": "Dostoyevsky, Fyodor",
+      "category": "Klasikler",
+      "description": "CRIME AND PUNISHMENT\r \r By Fyodor Dostoevsky\r \r \r \r Translated By Constance Garnett\r \r \r \r \r TRANSLATOR’S PREFACE\r \r A few words about Dostoevsky hims...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/2554/pg2554.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/crime-and-punishment.json"
+    },
+    {
+      "id": "en-37106",
+      "title": "Little Women; Or, Meg, Jo, Beth, and Amy",
+      "author": "Alcott, Louisa May",
+      "category": "Klasikler",
+      "description": "[Illustration: LITTLE WOMEN\r                          MEG, JO, BETH, AND AMY\r                            LOUISA M. ALCOTT]\r \r \r \r \r                   ...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/37106/pg37106.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/little-women--or--meg--jo--bet.json"
+    },
+    {
+      "id": "en-17135",
+      "title": "Twas the Night before Christmas: A Visit from St. Nicholas",
+      "author": "Moore, Clement Clarke",
+      "category": "Klasikler",
+      "description": "Twas the Night Before Christmas\r \r   A Visit from St. Nicholas\r \r   By Clement C. Moore\r \r \r   [Illustration]\r \r \r   With Pictures by Jessie Willcox S...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/17135/pg17135.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/twas-the-night-before-christma.json"
+    },
+    {
+      "id": "en-8492",
+      "title": "The King in Yellow",
+      "author": "Chambers, Robert W. (Robert William)",
+      "category": "Klasikler",
+      "description": "THE KING IN YELLOW\r \r                                    BY\r                            ROBERT W. CHAMBERS\r \r                      Original publicatio...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/8492/pg8492.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/the-king-in-yellow.json"
+    },
+    {
+      "id": "en-67979",
+      "title": "The Blue Castle: a novel",
+      "author": "Montgomery, L. M. (Lucy Maud)",
+      "category": "Klasikler",
+      "description": "_The_\r BLUE CASTLE\r \r _A NOVEL_\r \r BY\r L. M. MONTGOMERY\r \r NEW YORK\r FREDERICK A. STOKES COMPANY\r MCMXXVI\r \r \r \r \r CONTENTS\r \r  CHAPTER I\r  CHAPTER II...",
+      "coverImage": "https://www.gutenberg.org/cache/epub/67979/pg67979.cover.medium.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/processed/the-blue-castle--a-novel.json"
+    }
   ],
   "tr": [
-    {"id": "tr-madonna", "title": "Kürk Mantolu Madonna", "author": "Sabahattin Ali", "category": "Türk Klasikleri", "description": "Bir ruhun, başka bir ruhu bulma hikayesi.", "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/madonna.jpg", "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/madonna.json"},
-    {"id": "tr-seytan", "title": "İçimizdeki Şeytan", "author": "Sabahattin Ali", "category": "Türk Klasikleri", "description": "İnsanın iç dünyasındaki karmaşayı ele alan bir başyapıt.", "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/seytan.jpg", "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/seytan.json"},
-    {"id": "tr-yusuf", "title": "Kuyucaklı Yusuf", "author": "Sabahattin Ali", "category": "Türk Klasikleri", "description": "Anadolu hayatının sarsıcı öyküsü.", "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yusuf.jpg", "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/yusuf.json"},
-    {"id": "tr-calikusu", "title": "Çalıkuşu", "author": "Reşat Nuri Güntekin", "category": "Türk Klasikleri", "description": "İdealist bir genç öğretmenin Anadolu macerası.", "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/calikusu.jpg", "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/calikusu.json"}
+    {
+      "id": "tr-madonna",
+      "title": "Kürk Mantolu Madonna",
+      "author": "Sabahattin Ali",
+      "category": "Türk Klasikleri",
+      "description": "Bir ruhun, başka bir ruhu bulma hikayesi.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/madonna.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/madonna.json"
+    },
+    {
+      "id": "tr-calikusu",
+      "title": "Çalıkuşu",
+      "author": "Reşat Nuri Güntekin",
+      "category": "Türk Klasikleri",
+      "description": "İdealist bir genç öğretmenin Anadolu macerası.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/calikusu.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/calikusu.json"
+    }
   ]
 }
