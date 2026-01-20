@@ -8,7 +8,7 @@
       "category": "Türk Klasikleri",
       "description": "Bir ruhun, başka bir ruhu bulma hikayesi.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/madonna.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/madonna.epub"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/madonna.json"
     },
     {
       "id": "tr-seytan",
@@ -17,7 +17,7 @@
       "category": "Türk Klasikleri",
       "description": "İnsanın iç dünyasındaki karmaşayı ele alan bir başyapıt.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/seytan.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/seytan.epub"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/seytan.json"
     },
     {
       "id": "tr-yusuf",
@@ -26,7 +26,7 @@
       "category": "Türk Klasikleri",
       "description": "Anadolu hayatının sarsıcı öyküsü.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yusuf.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yusuf.epub"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/yusuf.json"
     },
     {
       "id": "tr-calikusu",
@@ -35,16 +35,7 @@
       "category": "Türk Klasikleri",
       "description": "İdealist bir genç öğretmenin Anadolu macerası.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/calikusu.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/calikusu.epub"
-    },
-    {
-      "id": "tr-semaver",
-      "title": "Semaver",
-      "author": "Sait Faik Abasıyanık",
-      "category": "Modern Klasik",
-      "description": "Sıradan insanların içten hikayeleri.",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/semaver.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/semaver.epub"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/processed/calikusu.json"
     }
   ]
 }
