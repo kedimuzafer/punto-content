@@ -3,122 +3,236 @@
     {
       "id": "en-dracula",
       "title": "Dracula",
-      "author": "Description",
+      "author": "Bram Stoker",
       "category": "Korku & Gotik",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Dracula: An ancient undead monster terrorizes Victorian London....",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/dracula.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/dracula.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/dracula.epub"
     },
     {
       "id": "en-frankenstein",
       "title": "Frankenstein",
-      "author": "Description",
+      "author": "Mary Shelley",
       "category": "Bilim Kurgu",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Frankenstein: A tragic scientist creates a monster in his laboratory....",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/frankenstein.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/frankenstein.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/frankenstein.epub"
     },
     {
       "id": "en-the-great-gatsby",
       "title": "The Great Gatsby",
-      "author": "Description",
+      "author": "F Scott Fitzgerald",
       "category": "Modern Klasik",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Great Gatsby: The decadent and mysterious Jay Gatsby pursues the American Dream in Jazz...",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-great-gatsby.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-great-gatsby.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-great-gatsby.epub"
     },
     {
       "id": "en-pride-and-prejudice",
-      "title": "Pride and Prejudice",
-      "author": "Description",
-      "category": "Romantik Klasik",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Pride and Prejudice: A Regency-era novel of manners in which five women try to adjust to th...",
+      "title": "Pride And Prejudice",
+      "author": "Jane Austen",
+      "category": "Romantik",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/pride-and-prejudice.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/pride-and-prejudice.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/pride-and-prejudice.epub"
+    },
+    {
+      "id": "en-sense-and-sensibility",
+      "title": "Sense And Sensibility",
+      "author": "Jane Austen",
+      "category": "Romantik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/sense-and-sensibility.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/sense-and-sensibility.epub"
     },
     {
       "id": "en-the-adventures-of-sherlock-holmes",
-      "title": "The Adventures of Sherlock Holmes",
-      "author": "Description",
+      "title": "The Adventures Of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
       "category": "Polisiye",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Adventures of Sherlock Holmes: The world’s first consulting detective investigates a va...",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-adventures-of-sherlock-holmes.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-adventures-of-sherlock-holmes.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-adventures-of-sherlock-holmes.epub"
     },
     {
       "id": "en-moby-dick",
       "title": "Moby Dick",
-      "author": "Description",
+      "author": "Herman Melville",
       "category": "Macera",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Moby Dick: Captain Ahab, having lost his leg to the white whale Moby Dick, travels the worl...",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/moby-dick.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/moby-dick.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/moby-dick.epub"
     },
     {
       "id": "en-the-war-of-the-worlds",
-      "title": "The War of the Worlds",
-      "author": "Description",
+      "title": "The War Of The Worlds",
+      "author": "H G Wells",
       "category": "Bilim Kurgu",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The War of the Worlds: The first-person narrative of the Martian invasion of 19th-century E...",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-war-of-the-worlds.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-war-of-the-worlds.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-war-of-the-worlds.epub"
+    },
+    {
+      "id": "en-the-time-machine",
+      "title": "The Time Machine",
+      "author": "H G Wells",
+      "category": "Bilim Kurgu",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-time-machine.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-time-machine.epub"
     },
     {
       "id": "en-george-long",
-      "title": "Meditations",
-      "author": "Description",
+      "title": "George Long",
+      "author": "Marcus Aurelius",
       "category": "Felsefe",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Meditations: The personal diary of the Roman Emperor, in which he lays out his thoughts and...",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/george-long.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/george-long.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/george-long.epub"
     },
     {
       "id": "en-lionel-giles",
-      "title": "The Art of War",
-      "author": "Description",
-      "category": "Felsefe & Strateji",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Art of War: An ancient Chinese classic discussing the art of war....",
+      "title": "Lionel Giles",
+      "author": "Sun Tzu",
+      "category": "Strateji",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/lionel-giles.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/lionel-giles.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/lionel-giles.epub"
     },
     {
       "id": "en-a-tale-of-two-cities",
-      "title": "A Tale of Two Cities",
-      "author": "Description",
-      "category": "Tarihi Roman",
-      "description": "Free epub ebook download of the Standard Ebooks edition of A Tale of Two Cities: A family is reunited, added to, and then threatened to be torn apart ...",
+      "title": "A Tale Of Two Cities",
+      "author": "Charles Dickens",
+      "category": "Tarih",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/a-tale-of-two-cities.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/a-tale-of-two-cities.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/a-tale-of-two-cities.epub"
+    },
+    {
+      "id": "en-great-expectations",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "category": "Klasik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/great-expectations.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/great-expectations.epub"
     },
     {
       "id": "en-the-call-of-the-wild",
-      "title": "The Call of the Wild",
-      "author": "Description",
+      "title": "The Call Of The Wild",
+      "author": "Jack London",
       "category": "Macera",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Call of the Wild: The story of a domesticated dog’s return to a primitive state in the ...",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-call-of-the-wild.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-call-of-the-wild.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-call-of-the-wild.epub"
     },
     {
       "id": "en-heart-of-darkness",
-      "title": "Heart of Darkness",
-      "author": "Description",
-      "category": "Psikolojik Klasik",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Heart of Darkness: A steamer captain in the heart of Africa witnesses the final days of a b...",
+      "title": "Heart Of Darkness",
+      "author": "Joseph Conrad",
+      "category": "Klasik",
+      "description": "Ölümsüz bir dünya klasiği.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/heart-of-darkness.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/heart-of-darkness.epub",
-      "language": "en"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/heart-of-darkness.epub"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "Constance Garnett",
+      "author": "Fyodor Dostoevsky",
+      "category": "Psikolojik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "Constance Garnett",
+      "author": "Fyodor Dostoevsky",
+      "category": "Psikolojik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "Constance Garnett",
+      "author": "Leo Tolstoy",
+      "category": "Klasik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub"
+    },
+    {
+      "id": "en-the-picture-of-dorian-gray",
+      "title": "The Picture Of Dorian Gray",
+      "author": "Oscar Wilde",
+      "category": "Felsefe",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-picture-of-dorian-gray.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-picture-of-dorian-gray.epub"
+    },
+    {
+      "id": "en-the-adventures-of-tom-sawyer",
+      "title": "The Adventures Of Tom Sawyer",
+      "author": "Mark Twain",
+      "category": "Macera",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-adventures-of-tom-sawyer.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-adventures-of-tom-sawyer.epub"
+    },
+    {
+      "id": "en-constance-garnett",
+      "title": "Constance Garnett",
+      "author": "Anton Chekhov",
+      "category": "Öykü",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub"
+    },
+    {
+      "id": "en-little-women",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "category": "Klasik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/little-women.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/little-women.epub"
+    },
+    {
+      "id": "en-the-souls-of-black-folk",
+      "title": "The Souls Of Black Folk",
+      "author": "W E B Du Bois",
+      "category": "Sosyoloji",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-souls-of-black-folk.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-souls-of-black-folk.epub"
+    },
+    {
+      "id": "en-henry-wadsworth-longfellow",
+      "title": "Henry Wadsworth Longfellow",
+      "author": "Dante Alighieri",
+      "category": "Epik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/henry-wadsworth-longfellow.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/henry-wadsworth-longfellow.epub"
+    },
+    {
+      "id": "en-walden",
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "category": "Felsefe",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/walden.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/walden.epub"
+    },
+    {
+      "id": "en-oliver-twist",
+      "title": "Oliver Twist",
+      "author": "Charles Dickens",
+      "category": "Klasik",
+      "description": "Ölümsüz bir dünya klasiği.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/oliver-twist.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/oliver-twist.epub"
     }
   ],
   "tr": [
@@ -127,10 +241,9 @@
       "title": "Kürk Mantolu Madonna",
       "author": "Sabahattin Ali",
       "category": "Türk Klasikleri",
-      "description": "Raif Efendi'nin Maria Puder'e olan unutulmaz aşkı.",
+      "description": "Türk edebiyatının en derin aşk romanı.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/madonna.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/madonna.epub",
-      "language": "tr"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/madonna.epub"
     },
     {
       "id": "tr-seytan",
@@ -139,28 +252,25 @@
       "category": "Türk Klasikleri",
       "description": "İnsanın iç dünyasındaki karmaşayı ele alan bir başyapıt.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/seytan.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/seytan.epub",
-      "language": "tr"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/seytan.epub"
     },
     {
       "id": "tr-yusuf",
       "title": "Kuyucaklı Yusuf",
       "author": "Sabahattin Ali",
       "category": "Türk Klasikleri",
-      "description": "Anadolu hayatının ve adaletsizliğin sarsıcı öyküsü.",
+      "description": "Anadolu hayatının sarsıcı öyküsü.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yusuf.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yusuf.epub",
-      "language": "tr"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yusuf.epub"
     },
     {
       "id": "tr-yasar",
       "title": "İnsan Neyle Yaşar?",
       "author": "Lev Tolstoy",
       "category": "Felsefe & Yaşam",
-      "description": "Tolstoy'un ölümsüz ahlaki ve felsefi öyküsü.",
+      "description": "Tolstoy'un ölümsüz ahlaki öyküsü.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yasar.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yasar.epub",
-      "language": "tr"
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yasar.epub"
     }
   ]
 }
