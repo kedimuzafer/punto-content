@@ -1,140 +1,110 @@
 {
   "en": [
     {
-      "id": "en-constance-garnett",
-      "title": "Crime and Punishment",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Crime and Punishment: Inflated by his own ambition, an ex-student murders a pawnbroker, the...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-constance-garnett",
-      "title": "Anna Karenina",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Anna Karenina: A socialite starts an affair with a cavalry officer, against a backdrop of w...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/constance-garnett.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/constance-garnett.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-pride-and-prejudice",
-      "title": "Pride and Prejudice",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Pride and Prejudice: A Regency-era novel of manners in which five women try to adjust to th...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/pride-and-prejudice.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/pride-and-prejudice.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-sense-and-sensibility",
-      "title": "Sense and Sensibility",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Sense and Sensibility: Two sisters take long journeys to love in early nineteenth-century E...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/sense-and-sensibility.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/sense-and-sensibility.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-the-great-gatsby",
-      "title": "The Great Gatsby",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Great Gatsby: The decadent and mysterious Jay Gatsby pursues the American Dream in Jazz...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-great-gatsby.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-great-gatsby.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-frankenstein",
-      "title": "Frankenstein",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Frankenstein: A tragic scientist creates a monster in his laboratory....",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/frankenstein.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/frankenstein.epub",
-      "language": "en"
-    },
-    {
       "id": "en-dracula",
       "title": "Dracula",
-      "author": "Unknown",
-      "category": "World Classics",
+      "author": "Description",
+      "category": "Korku & Gotik",
       "description": "Free epub ebook download of the Standard Ebooks edition of Dracula: An ancient undead monster terrorizes Victorian London....",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/dracula.jpg",
       "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/dracula.epub",
       "language": "en"
     },
     {
-      "id": "en-the-adventures-of-tom-sawyer",
-      "title": "The Adventures of Tom Sawyer",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Adventures of Tom Sawyer: A young boy growing up in Missouri gets into all sorts of tro...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-adventures-of-tom-sawyer.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-adventures-of-tom-sawyer.epub",
+      "id": "en-frankenstein",
+      "title": "Frankenstein",
+      "author": "Description",
+      "category": "Bilim Kurgu",
+      "description": "Free epub ebook download of the Standard Ebooks edition of Frankenstein: A tragic scientist creates a monster in his laboratory....",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/frankenstein.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/frankenstein.epub",
       "language": "en"
     },
     {
-      "id": "en-moby-dick",
-      "title": "Moby Dick",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Moby Dick: Captain Ahab, having lost his leg to the white whale Moby Dick, travels the worl...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/moby-dick.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/moby-dick.epub",
+      "id": "en-the-great-gatsby",
+      "title": "The Great Gatsby",
+      "author": "Description",
+      "category": "Modern Klasik",
+      "description": "Free epub ebook download of the Standard Ebooks edition of The Great Gatsby: The decadent and mysterious Jay Gatsby pursues the American Dream in Jazz...",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-great-gatsby.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-great-gatsby.epub",
       "language": "en"
     },
     {
-      "id": "en-the-picture-of-dorian-gray",
-      "title": "The Picture of Dorian Gray",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Picture of Dorian Gray: A Victorian dandy turns to a life of debauchery after a magical...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-picture-of-dorian-gray.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-picture-of-dorian-gray.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-the-war-of-the-worlds",
-      "title": "The War of the Worlds",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The War of the Worlds: The first-person narrative of the Martian invasion of 19th-century E...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-war-of-the-worlds.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-war-of-the-worlds.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-the-time-machine",
-      "title": "The Time Machine",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Time Machine: A mysterious inventor travels to a land far off in time....",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-time-machine.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-time-machine.epub",
+      "id": "en-pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "author": "Description",
+      "category": "Romantik Klasik",
+      "description": "Free epub ebook download of the Standard Ebooks edition of Pride and Prejudice: A Regency-era novel of manners in which five women try to adjust to th...",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/pride-and-prejudice.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/pride-and-prejudice.epub",
       "language": "en"
     },
     {
       "id": "en-the-adventures-of-sherlock-holmes",
       "title": "The Adventures of Sherlock Holmes",
-      "author": "Unknown",
-      "category": "World Classics",
+      "author": "Description",
+      "category": "Polisiye",
       "description": "Free epub ebook download of the Standard Ebooks edition of The Adventures of Sherlock Holmes: The world’s first consulting detective investigates a va...",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-adventures-of-sherlock-holmes.jpg",
       "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-adventures-of-sherlock-holmes.epub",
       "language": "en"
     },
     {
+      "id": "en-moby-dick",
+      "title": "Moby Dick",
+      "author": "Description",
+      "category": "Macera",
+      "description": "Free epub ebook download of the Standard Ebooks edition of Moby Dick: Captain Ahab, having lost his leg to the white whale Moby Dick, travels the worl...",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/moby-dick.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/moby-dick.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-the-war-of-the-worlds",
+      "title": "The War of the Worlds",
+      "author": "Description",
+      "category": "Bilim Kurgu",
+      "description": "Free epub ebook download of the Standard Ebooks edition of The War of the Worlds: The first-person narrative of the Martian invasion of 19th-century E...",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-war-of-the-worlds.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-war-of-the-worlds.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-george-long",
+      "title": "Meditations",
+      "author": "Description",
+      "category": "Felsefe",
+      "description": "Free epub ebook download of the Standard Ebooks edition of Meditations: The personal diary of the Roman Emperor, in which he lays out his thoughts and...",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/george-long.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/george-long.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-lionel-giles",
+      "title": "The Art of War",
+      "author": "Description",
+      "category": "Felsefe & Strateji",
+      "description": "Free epub ebook download of the Standard Ebooks edition of The Art of War: An ancient Chinese classic discussing the art of war....",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/lionel-giles.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/lionel-giles.epub",
+      "language": "en"
+    },
+    {
+      "id": "en-a-tale-of-two-cities",
+      "title": "A Tale of Two Cities",
+      "author": "Description",
+      "category": "Tarihi Roman",
+      "description": "Free epub ebook download of the Standard Ebooks edition of A Tale of Two Cities: A family is reunited, added to, and then threatened to be torn apart ...",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/a-tale-of-two-cities.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/a-tale-of-two-cities.epub",
+      "language": "en"
+    },
+    {
       "id": "en-the-call-of-the-wild",
       "title": "The Call of the Wild",
-      "author": "Unknown",
-      "category": "World Classics",
+      "author": "Description",
+      "category": "Macera",
       "description": "Free epub ebook download of the Standard Ebooks edition of The Call of the Wild: The story of a domesticated dog’s return to a primitive state in the ...",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/the-call-of-the-wild.jpg",
       "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/the-call-of-the-wild.epub",
@@ -143,51 +113,11 @@
     {
       "id": "en-heart-of-darkness",
       "title": "Heart of Darkness",
-      "author": "Unknown",
-      "category": "World Classics",
+      "author": "Description",
+      "category": "Psikolojik Klasik",
       "description": "Free epub ebook download of the Standard Ebooks edition of Heart of Darkness: A steamer captain in the heart of Africa witnesses the final days of a b...",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/heart-of-darkness.jpg",
       "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/heart-of-darkness.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-a-tale-of-two-cities",
-      "title": "A Tale of Two Cities",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of A Tale of Two Cities: A family is reunited, added to, and then threatened to be torn apart ...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/a-tale-of-two-cities.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/a-tale-of-two-cities.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-great-expectations",
-      "title": "Great Expectations",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Great Expectations: An orphan boy living in Victorian England begins his life in extreme po...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/great-expectations.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/great-expectations.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-lionel-giles",
-      "title": "The Art of War",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of The Art of War: An ancient Chinese classic discussing the art of war....",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/lionel-giles.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/lionel-giles.epub",
-      "language": "en"
-    },
-    {
-      "id": "en-george-long",
-      "title": "Meditations",
-      "author": "Unknown",
-      "category": "World Classics",
-      "description": "Free epub ebook download of the Standard Ebooks edition of Meditations: The personal diary of the Roman Emperor, in which he lays out his thoughts and...",
-      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/covers/george-long.jpg",
-      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/en/books/george-long.epub",
       "language": "en"
     }
   ],
@@ -197,9 +127,39 @@
       "title": "Kürk Mantolu Madonna",
       "author": "Sabahattin Ali",
       "category": "Türk Klasikleri",
-      "description": "Türk edebiyatının en derin aşk romanı.",
+      "description": "Raif Efendi'nin Maria Puder'e olan unutulmaz aşkı.",
       "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/madonna.jpg",
       "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/madonna.epub",
+      "language": "tr"
+    },
+    {
+      "id": "tr-seytan",
+      "title": "İçimizdeki Şeytan",
+      "author": "Sabahattin Ali",
+      "category": "Türk Klasikleri",
+      "description": "İnsanın iç dünyasındaki karmaşayı ele alan bir başyapıt.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/seytan.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/seytan.epub",
+      "language": "tr"
+    },
+    {
+      "id": "tr-yusuf",
+      "title": "Kuyucaklı Yusuf",
+      "author": "Sabahattin Ali",
+      "category": "Türk Klasikleri",
+      "description": "Anadolu hayatının ve adaletsizliğin sarsıcı öyküsü.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yusuf.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yusuf.epub",
+      "language": "tr"
+    },
+    {
+      "id": "tr-yasar",
+      "title": "İnsan Neyle Yaşar?",
+      "author": "Lev Tolstoy",
+      "category": "Felsefe & Yaşam",
+      "description": "Tolstoy'un ölümsüz ahlaki ve felsefi öyküsü.",
+      "coverImage": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/covers/yasar.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/kedimuzafer/punto-content/main/tr/books/yasar.epub",
       "language": "tr"
     }
   ]
