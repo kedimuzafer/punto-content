@@ -58,8 +58,8 @@
 	<h1>Your Download Has Started!</h1>
 	<div class="thank-you-container">
 		<picture>
-			<source srcset="/images/covers/robert-louis-stevenson_treasure-island-2befd055-cover@2x.avif 2x, /images/covers/robert-louis-stevenson_treasure-island-2befd055-cover.avif 1x" type="image/avif"/>			<source srcset="/images/covers/robert-louis-stevenson_treasure-island-2befd055-cover@2x.jpg 2x, /images/covers/robert-louis-stevenson_treasure-island-2befd055-cover.jpg 1x" type="image/jpg"/>
-			<img class="ebook" src="/images/covers/robert-louis-stevenson_treasure-island-2befd055-cover@2x.jpg" alt="The cover for the Standard Ebooks edition of Treasure Island, by Robert Louis Stevenson" property="schema:image" height="335" width="224"/>
+			<source srcset="/images/covers/robert-louis-stevenson_treasure-island-4c13fcc3-cover@2x.avif 2x, /images/covers/robert-louis-stevenson_treasure-island-4c13fcc3-cover.avif 1x" type="image/avif"/>			<source srcset="/images/covers/robert-louis-stevenson_treasure-island-4c13fcc3-cover@2x.jpg 2x, /images/covers/robert-louis-stevenson_treasure-island-4c13fcc3-cover.jpg 1x" type="image/jpg"/>
+			<img class="ebook" src="/images/covers/robert-louis-stevenson_treasure-island-4c13fcc3-cover@2x.jpg" alt="The cover for the Standard Ebooks edition of Treasure Island, by Robert Louis Stevenson" property="schema:image" height="335" width="224"/>
 		</picture>
 		<div>
 						
